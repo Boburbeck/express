@@ -13,7 +13,7 @@ This dummy project has following prerequisites
 
 - Install virtual environment:
 ```
-git clone git@github.com:kids-uz/kids-backend.git
+git clone https://github.com/Boburbeck/express.git
 cd express
 python3.8 -m venv --prompt="v" .env
 ```
